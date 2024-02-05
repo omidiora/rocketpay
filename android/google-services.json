@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300292146601",
+    "project_id": "rocketminipay",
+    "storage_bucket": "rocketminipay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300292146601:android:ec42b019fdcc8b01d8b0b8",
+        "android_client_info": {
+          "package_name": "com.rocketpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfE8ByGKy-Smv-msCiI3TfGedenCFlaQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
